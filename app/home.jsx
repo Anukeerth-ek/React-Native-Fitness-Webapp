@@ -12,7 +12,7 @@ const Home = () => {
 
     {/* punchline and avatar */}
     <View className="flex-row justify-between items-center mx-5">
-        <View className="space-y-1">
+        <View className="space-y-2">
             <Text style={{fontSize: hp(4.5)}} className="font-bold tracking-wider text-neutral-700">READY TO</Text>
             <Text style={{fontSize: hp(4.5)}} className="font-bold tracking-wider text-red-500">WORKOUT</Text>
         </View>
