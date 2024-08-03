@@ -4,7 +4,6 @@ import {StatusBar} from 'expo-status-bar'
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from "react-native-responsive-screen";
 import { LinearGradient } from "expo-linear-gradient";
 import Animated, { BounceInUp, FadeInDown } from "react-native-reanimated";
-
 import {useRouter} from 'expo-router'
 
 const Index = () => {
